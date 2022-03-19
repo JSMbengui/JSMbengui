@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Joel Sebastião Mbengui (jsmbengui).
 
 ### Everything is easy, just find the logic.
-#### I'm from Angola 🇦🇴, I write code, and sometimes I try to write some stuff
 
 How to reach me: [joelsmbengui@gmail.com](mailto:joelsmbengui@gmail.com)
 
