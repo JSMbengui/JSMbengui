@@ -7,7 +7,7 @@ In my free time I like to watch football (⚽️), practice karate (🥋), to wa
 Would you like to find me?
 
 [![Blog Badge](https://img.shields.io/badge/Blog-jsmbengui.com-black)](https://joelsmbengui.com/blog)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joel_mbengui)]([https://twitter.com/felipefialho_](https://twitter.com/joel_mbengui))
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-sebastião-mbengui)](https://www.linkedin.com/in/joel-sebastião-mbengui)
 
 ____
