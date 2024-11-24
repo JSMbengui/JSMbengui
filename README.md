@@ -2,7 +2,7 @@
 
 My name is Joel Sebastião Mbengui from Angola (🇦🇴). I've been working as Software Engineer and currently I'm Tech Lead at [Bulir Techonology]. I'm passionate about software, so I've been some projects and I've always loved to produce a lot of content during my career
 
-In my free time I like to watch football (⚽️), practice karate (🥋), to watch movies (🎞️) and series (📺), to read books (📚), to listen rock and roll(🎵).
+In my free time I like to watch football (⚽️), practice judo (🥋), to watch movies (🎞️) and series (📺), to read books (📚), to listen rock and roll(🎵).
 
 Would you like to find me?
 
