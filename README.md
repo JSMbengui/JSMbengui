@@ -1,21 +1,12 @@
-### Hi there! 👋 
+### Hi, I'm Joel 👋
 
-My name is Joel Sebastião Mbengui from Angola (🇦🇴). I've been working as Software Engineer and currently I'm Tech Lead at [Bulir Techonology]. I'm passionate about software, so I've been some projects and I've always loved to produce a lot of content during my career
+Software Engineer in Luanda, Angola, focused on **backend systems and banking integrations**.
 
-In my free time I like to watch football (⚽️), practice judo (🥋), to watch movies (🎞️) and series (📺), to read books (📚), to listen rock and roll(🎵).
+- 🏦 Currently at **BPC – Banco de Poupança e Crédito**: core banking integrations (Equation), regulatory integrations, legacy DB2/iSeries modernization
+- 👥 Previously Engineering Team Lead at **Bulir Technology** (NestJS microservices, RabbitMQ)
+- 🛠️ TypeScript (NestJS) · C# (.NET) · Java (Spring Boot) · Go (Gin) · Kafka · RabbitMQ · Docker · Kubernetes
+- 📐 Clean Architecture · DDD · TDD · Microservices
 
-Would you like to find me?
+Outside work: judo 🥋, football ⚽, books 📚 and rock 🎸.
 
-[![Blog Badge](https://img.shields.io/badge/Blog-jsmbengui.com-black)](https://joelsmbengui.com/blog)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joel_mbengui)]([https://twitter.com/felipefialho_](https://twitter.com/joel_mbengui))
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-sebastião-mbengui)](https://www.linkedin.com/in/joel-sebastião-mbengui)
-
-____
-
-[![Joel Mbengui github stats](https://github-readme-stats-one-bice.vercel.app/api?username=JSMbengui&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/JSMbengui)
-<br>
-[![Joel Mbengui Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSMbengui&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@jsmbengui)
-
-
-
-
+[Portfolio](https://joelmbengui.vercel.app) · [LinkedIn](https://www.linkedin.com/in/joel-sebasti%C3%A3o-mbengui) · [dev.to](https://dev.to/jsmbengui)
